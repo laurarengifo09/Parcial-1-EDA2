@@ -1,0 +1,35 @@
+.Chance{
+    color:black;
+    align-items: center;
+    text-align: center;
+}
+
+
+.titulo{
+    color: blue;
+    text-align: center;
+   
+}
+
+.boton{
+    color: black;
+    background-color:rgb(239, 233, 233);
+    border-radius: 20px;
+    
+    
+}
+
+.Inputs{
+    color: black;
+    
+
+
+}
+
+.Container{
+    width: 100px;
+    height: fit-content;
+    padding-left: 10px;
+    
+
+}
